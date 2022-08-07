@@ -28,18 +28,18 @@ This app is a strip down version of Rate my Professor solely for UB students and
 
 **Required Must-have Stories**
 
-- [X] User can create a review/rating
-- [X] User can add to the list of professors
-- [X] User can add to the list of subjects
-- [X] User can view all ratings and all subjects for each professor
-- [X] User can view the feed
-- [X] User can refresh the feed
-- [X] User can create an account
-- [X] User can login
-- [X] User stays logged in across restarts
-- [X] User can logout
-- [X] User can click on a Detailed Professor Profile
-- [X] User can see all reviews on Professors' Profile
+- [ ] User can create a review/rating
+- [ ] User can add to the list of professors
+- [ ] User can add to the list of subjects
+- [ ] User can view all ratings and all subjects for each professor
+- [ ] User can view the feed
+- [ ] User can refresh the feed
+- [ ] User can create an account
+- [ ] User can login
+- [ ] User stays logged in across restarts
+- [ ] User can logout
+- [ ] User can click on a Detailed Professor Profile
+- [ ] User can see all reviews on Professors' Profile
 
 **Optional Nice-to-have Stories**
 
